@@ -89,5 +89,5 @@ MySQL, MySQL Workbench, Python (Pandas, NumPy, SciPy, Statsmodels, Matplotlib, S
 
 Ankit Jadhav
 M.Sc. Statistics | Aspiring Data Analyst
-LinkedIn: *add your link here*
-Email: *add your email here*
+LinkedIn: https://www.linkedin.com/in/ankit-jadhav410/
+Email: jadhavankit410@gmail.com
